@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+table {
+    width: 100%;
+    height: 100vh;
+}
+#linha1{height: 150px;}
+#linha2{height: 120px;}
+#linha3{height: 260px;}
+#linha4{height: 60px;}
+#linha5{height: 60px;}
+
+#td1{width: 30%; background-color: purple;}
+#td2{width: 30%; text-align: center;}
+#td3{width: 40%; background-color: yellow;}
+
+#td4{width: 32%; background-color: red;}
+#td5{width: 7%; background-color: pink;}
+#td6{width: 18%; text-align: center;}
+#td7{width: 28%;}
+#td8{text-align: center;}
+#td9{background-color: purple;}
+#td10{background-color: yellow;}
+#td11{background-color: black;}
+#td12{background-color: pink;}
+
+#img{width: 50%; height: 50%;}
+#img2{width: 25%; height: 50%;}
